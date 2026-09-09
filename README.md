@@ -2,9 +2,6 @@
 
 CINEPEDIA is a modern and responsive movie information website that allows users to explore movies, view details, and discover trending content in an elegant and user-friendly interface.
 
-🚀 Live Demo: [http://YOUR_PUBLIC_IP ](http://13.218.163.43/) 
-
-📂 Repository: https://github.com/Dharmendra-9450/CINEPEDIA_WEBSITE
 
 ---
 
