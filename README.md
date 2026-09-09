@@ -105,13 +105,6 @@ Through this project, I learned:
 - 🗄️ Backend database integration
 
 ---
-
-## 👨‍💻 Author
-
-**Dharmendra Patel**
-
-- GitHub: https://github.com/Dharmendra-9450
-
 ---
 
 ## 📄 License
